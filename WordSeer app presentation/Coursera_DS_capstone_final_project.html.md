@@ -8,7 +8,7 @@ date: March 31, 2015
 -John Hopkins Bloomberg School of Public Health   
 -SwiftKey 
 
-The source code for the project is available on [GitHub]()  
+The source code for the project is available on [GitHub](https://github.com/gcampuzano14/Coursera-Data-Science-Capstone-Project)  
 The app: [WordSeer](https://gcampuzano14.shinyapps.io/WordSeer_ShinyApp/)
 
 WordSeer Highlights
